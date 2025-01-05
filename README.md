@@ -4,8 +4,11 @@ A feature-rich expense tracker built with HTML, CSS, and JavaScript. This applic
 Features:
 
 -Add, edit, and delete expenses.
+
 -Categorize expenses by type (e.g., Food, Travel, Utilities).
+
 -Filter expenses by date and category.
+
 -Responsive design for desktop and mobile devices.
 
 Tech Stack:
